@@ -3,4 +3,4 @@
 We are [Arvid Gotthard](https://github.com/mellonnen) and [Zino Kader](https://github.com/ZinoKader).
 We work on Portal on our free time, mostly to escape actual work.
 
-SpatiumPortae means space-door, gate to space or portal to space in Latin, if you trust Google Translate to be right!
+SpatiumPortae means _space-door_, _gate to space_ or _portal to space_ in Latin, if you trust Google Translate to be right!
